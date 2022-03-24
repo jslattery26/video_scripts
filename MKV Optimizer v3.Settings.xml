@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<cSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Last_Folder>D:\TV Shows\</Last_Folder>
+  <Last_Folder_Conversion />
+  <Path_MKVToolnix>C:\Program Files\MKVToolNix</Path_MKVToolnix>
+  <Path_FFmpeg />
+  <Rename_File>true</Rename_File>
+  <Move_File_to_REMUX>false</Move_File_to_REMUX>
+  <Delete_Original_File>false</Delete_Original_File>
+  <Copy_File_to_new_Folder>false</Copy_File_to_new_Folder>
+  <nf_Save_Remuxed_Files_in />
+  <nf_Preserve_Folder_structure>false</nf_Preserve_Folder_structure>
+  <nf_Delete_Original_File>false</nf_Delete_Original_File>
+  <nf_Rename_File>false</nf_Rename_File>
+  <Optimize_Automatic>false</Optimize_Automatic>
+  <Keep_forced_subtitles>false</Keep_forced_subtitles>
+  <Keep_datetime_from_original_file>true</Keep_datetime_from_original_file>
+  <Remove_read_only>true</Remove_read_only>
+  <Clean_up_MKV>false</Clean_up_MKV>
+  <Default_UND_value>und</Default_UND_value>
+  <Keep_Language_Audio />
+  <Keep_Language_Subtitle />
+  <Keep_Language_Only>false</Keep_Language_Only>
+  <Reorder_TrackID>true</Reorder_TrackID>
+  <Clean_up_MKV_Title>true</Clean_up_MKV_Title>
+  <Clean_up_MKV_TrackStatistics>true</Clean_up_MKV_TrackStatistics>
+  <Clean_up_MKV_Tags>true</Clean_up_MKV_Tags>
+  <Clean_up_MKV_VideoName>true</Clean_up_MKV_VideoName>
+  <Clean_up_MKV_AudioName>true</Clean_up_MKV_AudioName>
+  <Clean_up_MKV_SubtitleName>true</Clean_up_MKV_SubtitleName>
+  <Clean_up_MKV_Attachments>true</Clean_up_MKV_Attachments>
+</cSettings>
